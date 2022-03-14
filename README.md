@@ -16,6 +16,12 @@ Two piles of balls are set accordingly. Each player takes turn subsequently. You
 <QThread>
 <QtDebug>
 <QMessageBox>
+  
+  
+  
+  
+  
+  
 
 ![image](https://user-images.githubusercontent.com/84717550/158271905-abcd75d1-8432-46c3-8abb-da7958475d85.png)
 
